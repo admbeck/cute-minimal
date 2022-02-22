@@ -2,13 +2,13 @@
 
 Cute and minimal theme for 4chan and 4channel with my fixes
 
-## Requirements
+### Requirements
 
 * font-awesome 6.0+
 * stylus browser extension
 * 4chanx (for extended functionality)
 
-## 4chanX settings
+#### 4chanX settings
 
 Insert these settings in `Advanced` section of 4chanX settings.
 Note: If you don't see icons install font-awesome 6.0+
