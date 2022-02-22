@@ -17,7 +17,6 @@ Custom Board Navigation:
 ```
 【 toggle-all 】【current-title ⇨ current-expired-text:"" | current-catalog-text:"" | current-index-text:""】
 【(っ◔◡◔)っ g-text:""•vg-text:""•k-text:""•v-text:""•pol-text:""•biz-text:""•int-text:""•wg-text:""•x-text:""】 
-【external-text:"","https://www.4chan.org"】
 ```
 
 Time Formating:
