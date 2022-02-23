@@ -1,3 +1,4 @@
+@-moz-document url-prefix("https://4chan.org"), url-prefix("https://4channel.org"), domain("4chan.org"), domain("4channnel.org"), url-prefix("https://boards.4channel.org"), url-prefix("https://boards.4chan.org"), url-prefix("https://www.4chan.org"), url-prefix("https://www.4channel.org") {
 /*Variables*/
 :root {
 --bg: #fffff4;
@@ -795,4 +796,5 @@ h1 {
 :root.yotsuba-b.catalog-hover-expand .catalog-container:hover > .post,
 :root.yotsuba.catalog-hover-expand .catalog-container:hover > .post {
     display: none;
+}
 }
