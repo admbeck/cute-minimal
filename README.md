@@ -15,8 +15,8 @@ Note: If you don't see icons install font-awesome 6.0+
 
 Custom Board Navigation:
 ```
-【 toggle-all 】【current-title ⇨ current-expired-text:"" | current-catalog-text:"" | current-index-text:""】
-【(っ◔◡◔)っ g-text:""•vg-text:""•k-text:""•v-text:""•pol-text:""•biz-text:""•int-text:""•wg-text:""•x-text:""】 
+[ toggle-all ][current-title ⇨ current-expired-text:" " | current-catalog-text:" " | current-index-text:" "]
+[(っ◔◡◔)っ g-text:" "•vg-text:" "•k-text:" "•v-text:""•pol-text:" "•biz-text:""•int-text:" "•wg-text:" "•x-text:" "]
 ```
 
 Time Formating:
